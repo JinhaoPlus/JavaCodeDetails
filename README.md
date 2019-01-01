@@ -1,2 +1,4 @@
 # JavaCodeDetails
 JinhaoPlus的Java编码细节备忘录
+
+本仓库记录Java变成过程中遇到的易错点，在代码中备忘
